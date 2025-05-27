@@ -1,0 +1,14 @@
+h1 {
+  font-family: 'Luckiest Guy', cursive;
+  letter-spacing: 2px;
+  font-size: 3rem;
+  text-shadow: 2px 2px 8px #fff, 0 0 2px #ff89c0;
+}
+
+p, #resposta {
+  font-family: 'Quicksand', Arial, sans-serif;
+  font-size: 1.3rem;
+  color: #3a003a;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
